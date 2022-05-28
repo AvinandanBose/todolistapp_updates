@@ -73,8 +73,9 @@ class TasksScreen extends StatelessWidget {
                       ),
                     ),
                   ],
-                )),
-                child:  const TasksList ()),
+                ),
+            ),
+         
           ),
         ],
       ),
