@@ -66,7 +66,7 @@ class TasksScreen extends StatelessWidget {
 }
 
 class TasksList extends StatelessWidget {
-  const NewWidget({
+  const TasksList({
     Key? key,
   }) : super(key: key);
 
