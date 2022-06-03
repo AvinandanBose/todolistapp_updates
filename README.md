@@ -66,6 +66,16 @@ It contains all the changes made to the TODO LIST APP  .
     
 <li>Update 30(Deleting Tasks using the Provider Design Pattern)👉 <a href = "https://github.com/AvinandanBose/todolistapp_updates/tree/main/Update%2030(Deleting%20Tasks%20using%20the%20Provider%20Design%20Pattern)">Update 30(Deleting Tasks using the Provider Design Pattern)</a> </li>
   
- 
   </ul>
   </h3>
+  
+  <h1><i><strong>Full project looks like 👇</strong></i></h1>
+  
+  
+
+https://user-images.githubusercontent.com/38869235/171944908-7e6c38b4-446e-4ebf-8c56-d124feb1ea0f.mp4
+
+<h1><i><strong>FInal Project Link : 👉 </strong></i></h1>
+
+
+
