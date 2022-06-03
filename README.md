@@ -75,7 +75,7 @@ It contains all the changes made to the TODO LIST APP  .
 
 https://user-images.githubusercontent.com/38869235/171944908-7e6c38b4-446e-4ebf-8c56-d124feb1ea0f.mp4
 
-<h1><i><strong>FInal Project Link : 👉 </strong></i></h1>
+<h1><i><strong>FInal Project Link : 👉  <a href ='https://github.com/AvinandanBose/todolistapp_final'>TodolistAppFinal</a></strong></i></h1>
 
 
 
